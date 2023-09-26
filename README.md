@@ -4,6 +4,6 @@
 
 Иконки из библиотеки [material icons](https://fonts.google.com/icons).
 
-![Cards View image](./assets/cardsView.png)
+![Cards View image](./src/assets/cardsView.png)
 
-![List View image](./assets/listView.png)
+![List View image](./src/assets/listView.png)
